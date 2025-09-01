@@ -1,1 +1,6 @@
-This is an AI agent created using python flask for backend and html for frontend. It uses groq api keys to fetch responses from the llama3 model
+# 🤖 AI Chatbot Agent
+
+A simple yet powerful AI chatbot built with Python.  
+It accepts user prompts, processes them through an AI engine, and returns intelligent responses.
+
+
