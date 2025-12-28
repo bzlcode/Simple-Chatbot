@@ -30,6 +30,8 @@ This project is fully **code-driven** and focuses on understanding backend devel
 ├── .gitignore
 └── README.md
 
+```
+
 ## 🧱 Architecture Overview
 
 Web Browser (web)
