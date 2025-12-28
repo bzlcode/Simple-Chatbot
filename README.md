@@ -18,8 +18,8 @@ This project is fully **code-driven** and focuses on understanding backend devel
 
 ## 📂 Project Structure
 
-```Simple-Chatbot/
-
+```text
+Simple-Chatbot/
 ├── src/
 │   ├── main.py
 │   └── ai_engine.py
