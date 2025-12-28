@@ -16,20 +16,16 @@ This project is fully **code-driven** and focuses on understanding backend devel
 - Groq API is used for generating responses
 (Can be replaced with Gemini, OpenAI, etc., by modifying ai_engine.py)
 
----
-
 ## 📂 Project Structure
 
-Simple-Chatbot/
-│
+```Simple-Chatbot/
+
 ├── src/
-│ ├── main.py
-│ └── ai_engine.py
-│
+│   ├── main.py
+│   └── ai_engine.py
 ├── templates/
-│ ├── chat.html
-│ └── summarizer.html
-│
+│   ├── chat.html
+│   └── summarizer.html
 ├── keys.env.example
 ├── .gitignore
 └── README.md
@@ -65,4 +61,4 @@ pip install -r requirements.txt
 
 ## Running the Application
 
-python app.py
+python src/main.py
