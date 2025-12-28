@@ -7,7 +7,7 @@ This project is fully **code-driven** and focuses on understanding backend devel
 
 ---
 
-## 🚀 Features
+## 📋 Features
 
 - Web-based chat interface (HTML, CSS, JavaScript)
 - Flask backend for request handling
@@ -57,10 +57,10 @@ Response rendered back to UI
 
 ---
 
-## Install dependencies
+## 📦Install dependencies
 
 pip install -r requirements.txt
 
-## Running the Application
+## 🚀 Running the Application
 
 python src/main.py
